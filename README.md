@@ -15,5 +15,5 @@ Welcome to the **Employee Management App**! This is a simple web application bui
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone <your-repo-link>
-cd <your-project-folder>
+git clone <git remote add origin https://github.com/shrey2609/employee-management.git>
+cd <Users/Yash/Desktop/employwise-app>
